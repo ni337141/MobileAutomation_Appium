@@ -1,6 +1,9 @@
 # MobileAutomation_Appium'
+
 This framework is designed on BDD approach and page object model pattern.
+
 Three different src package defined as below src/main/java, src/main/resorces and src/test/java
+
 It contains one bat file 'AutomationFramework' , this bat file is configured with pom and maven goals . Directly we can double click on it and it will start executing all test cases. We can directly run pom file.
 reports: Reports contain extentReport.html file with all cucumber steps.
 
